@@ -50,8 +50,8 @@ Input data needs to be pre-processed before we feed it to model.
 ## Results
 
 ### Website Frontend Screenshots
-![dashboard](dashboard.png)
 ![home](screenshots/home.png)
+![dashboard](screenshots/dashboard.png)
 ![details](screenshots/details.png)
 ![querydb](screenshots/querydb.png)
 ![reject](screenshots/reject.png)
