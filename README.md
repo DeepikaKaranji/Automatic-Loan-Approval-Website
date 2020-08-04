@@ -43,9 +43,19 @@ Input data needs to be pre-processed before we feed it to model.
 - Input: Gender, Marital Status, Dependents, Education, Self - Employed, Applicant Income, Co-Applicant Income, loan amount, loan term, credit history, property area
 - Output: Loan Approved or Not Approved
 
-**Results**
+## Instructions to run
+1. `python3 backend/backend.py`
+2. `cd frontend & npm start` (`npm install` may be needed)
 
+## Results
 
+### Website Frontend Screenshots
+![dashboard](dashboard.png)
+![home](screenshots/home.png)
+![details](screenshots/details.png)
+![querydb](screenshots/querydb.png)
+![reject](screenshots/reject.png)
+
+### Model Metrics 
 ![svc](svc.png)
 
-## Website Frontend Screenshots
