@@ -4,7 +4,7 @@
 
 Loan eligibility is important for companies to determine if a loan applicant can be given the money.
 
-Companies would want to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. 
+Companies would want to automate the loan eligibility process (real time) based on customer details provided while filling online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. 
 
 To automate this process, my team and I created a website that takes in customer information in loan application and identifies the customers segments, those are eligible for loan amount so that companies can specifically target these customers.
 
